@@ -1,0 +1,21 @@
+The benefits of DevOps
+Companies that incorporate DevOps practices get more done, plain and simple. With a single team composed of cross-functional members all working in collaboration, DevOps organizations can deliver with maximum speed, functionality, and innovation.
+
+There are technical benefits:
+
+Continuous software delivery
+Less complexity to manage
+Faster resolution of problems
+
+There are cultural benefits:
+
+Happier, more productive teams
+Higher employee engagement
+Greater professional development opportunities
+
+And there are business benefits:
+
+Faster delivery of features
+More stable operating environments
+Improved communication and collaboration
+More time to innovate (rather than fix/maintain)
